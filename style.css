@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 100%;
+}
+
+label {
+  font-weight: bolder;
+}
+
+.password {
+  background-color: lightgray;
+}
